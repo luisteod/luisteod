@@ -1,4 +1,6 @@
-# Hi, I'm Luis Henrique Teodoro
+# Hi, I'm Luis 
+
+Here you can find a summary of my certifications, tools that I have used and some of my areas of interest.
 
 ## Certifications
 
@@ -9,7 +11,6 @@
 ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -52,17 +53,15 @@
 
 ## Focus Areas
 
-- Distributed Data Systems
+- Big Data
 - Fault-Tolerant & Observable Pipelines
 - Real-Time Streaming Architectures
 - LLM-Integrated Microservices
-- Performance Engineering at Scale
 
 ---
 
 ## Currently Exploring
 
-- Rust for async systems
 - Spark & Flink internals
 - LLM driven applications
 
